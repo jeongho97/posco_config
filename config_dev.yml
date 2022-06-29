@@ -1,8 +1,8 @@
 jwt:
   time: 90000
-  secret: hello-world123441212
+  secret: hello-world1234412121
 posco:
-  name: 3기44441212
+  name: 3기444412121
   count: 2044441212
 test:
   datasource:
