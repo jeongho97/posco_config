@@ -8,4 +8,4 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/insta?serverTimezone=UTC&characterEncoding=UTF-8
     username: root
-    password: "{cipher}ba4cbf13d44262a17c150c1426023a6da4c2d1d904f83496abcd071c7b5ac629"
+    password: "{cipher}c2bbe796262e2e7a7ed9ea6eaf38c6cc17656a1257fb105d85020cbfcc6d0282"
