@@ -1,6 +1,3 @@
-jwt:
-  time: 90000
-  secret: hello-world1234412121
 posco:
   name: 3기444412121
   count: 2044441212
@@ -9,3 +6,6 @@ spring:
     url: jdbc:mysql://localhost:3306/insta?serverTimezone=UTC&characterEncoding=UTF-8
     username: root
     password: "{cipher}c2bbe796262e2e7a7ed9ea6eaf38c6cc17656a1257fb105d85020cbfcc6d0282"
+jwt:
+  secret_key: SECRET_APPLESECRET_APPLESECRET_APPLESECRET_APPLE
+  expTime: 86400000

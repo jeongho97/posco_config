@@ -1,6 +1,6 @@
-jwt:
-  time: 1000
-  secret: hello-posco123123123
 posco:
   name: "{cipher}22a6534c951a317c9843b231a36ad6adbc02c87fc6938e9f2da7216d573859fd"
   count: 20
+jwt:
+  secret_key: SECRET_APPLESECRET_APPLESECRET_APPLESECRET_APPLE
+  expTime: 86400000
