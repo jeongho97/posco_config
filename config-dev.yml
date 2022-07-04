@@ -5,7 +5,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/insta?serverTimezone=UTC&characterEncoding=UTF-8
     username: root
-    password: "{cipher}c2bbe796262e2e7a7ed9ea6eaf38c6cc17656a1257fb105d85020cbfcc6d0282"
+    password: "{cipher}e9663a2cfa6d5ae25894286bab9310028608cf63f4953eb407c77a601b1994af"
 jwt:
   secret_key: SECRET_APPLESECRET_APPLESECRET_APPLESECRET_APPLE
   expTime: 86400000
