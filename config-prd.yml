@@ -3,7 +3,7 @@ posco:
   count: 20444412312312312312
 test:
   datasource:
-    url: jdbc:mysql://?.?.?.?:3306/insta?serverTimezone=UTC&characterEncoding=UTF-8
+    url: jdbc:mysql://?.?.?.?:3306/rollin?serverTimezone=UTC&characterEncoding=UTF-8
     username: rollin
     password: 1234
 jwt:

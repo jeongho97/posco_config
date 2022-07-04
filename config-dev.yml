@@ -3,7 +3,7 @@ posco:
   count: 2044441212
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/insta?serverTimezone=UTC&characterEncoding=UTF-8
+    url: jdbc:mysql://localhost:3306/rollin?serverTimezone=UTC&characterEncoding=UTF-8
     username: root
     password: "{cipher}e9663a2cfa6d5ae25894286bab9310028608cf63f4953eb407c77a601b1994af"
 jwt:
